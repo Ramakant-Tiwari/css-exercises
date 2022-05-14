@@ -1,0 +1,19 @@
+*{
+    font-family: 'Alegreya Sans SC';
+}
+.para {
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#container-1 {
+    font-size: 36px;
+    color: blue;
+}
+.para.two {
+    font-size: 24px;
+}
+#container-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
